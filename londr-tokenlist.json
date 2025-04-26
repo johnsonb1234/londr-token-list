@@ -1,0 +1,21 @@
+{
+  "name": "Londr Token List",
+  "logoURI": "https://raw.githubusercontent.com/johnsonb1234/londr-token-list/main/logo.png",
+  "keywords": ["laundry", "meme", "LondrCoin"],
+  "timestamp": "2025-04-25T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x5A270B46EE47c0CAcC4E22ce129D0ab161785D5e",
+      "name": "LondrCoin",
+      "symbol": "LONDR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/johnsonb1234/londr-token-list/main/logo.png"
+    }
+  ]
+}
